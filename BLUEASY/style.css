@@ -1,0 +1,365 @@
+
+.contenu{
+	overflow: hidden;
+}
+.banner{
+	width: 100%;
+	height: 600px;
+	background-image:url(tof1.png);
+}
+.ban1{
+	width: 100%;
+	height: 90px;
+	background-color: black;
+	opacity:0.65;
+}
+.logo{
+	width: 30%;
+	float: left;
+	line-height: 100px;
+	text-align: center;
+}
+.logo a{
+	text-decoration: none;
+	font-size: 30px;
+	font-family: verdana;
+	color: #fff;
+	letter-spacing: 5px;
+
+}
+nav{
+	float: right;
+	line-height: 100px;
+
+}
+nav a {
+	text-decoration: none;
+	font-family: verdana;
+	letter-spacing: 4px;
+	font-size: 20px;
+	margin:0 10px;
+	color: #fff; 
+
+}
+nav a:hover {
+  background-color:none;
+  border: solid 2px #4bcaff;
+  padding: 5px 10px;
+}
+ 
+.corp p{
+	top: 200px;
+	font-size: 22px;
+	font-family: poppins;
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	margin: 0 auto;
+
+}
+
+.bg-bleu{
+	background: #4bcaff;
+	height: 260px;
+	position: relative;
+	margin: 0 auto;
+	bottom: 70px;
+	
+}
+.part1{
+	position: relative;
+	margin: 0 auto;
+	left: 350px;
+	top: 15px;
+}
+.part2{
+	position: relative;
+	margin: 0 auto;
+	left: 300px;
+	bottom: 200px;
+}
+.part3{
+	position: relative;
+	margin: 0 auto;
+	left: 600px;
+	bottom: 400px;
+}
+.part4{
+	position: relative;
+	margin: 0 auto;
+	left: 900px;
+	bottom: 610px;
+}
+.sec-title{
+	font-family:"Segoe UI" ;
+	font-size:30px ;
+	text-transform: uppercase;
+	line-height: 0.8;
+	color: white;
+
+}
+
+article h2{
+	color: #fff;
+	font-family:"Segoe UI" ;
+}
+.contenu{
+	color: #fff;
+	font-family:"Segoe UI" ;
+}
+.contenu1{
+	color: #fff;
+	font-family:"Segoe UI" ;
+}
+.contenu2{
+	color: #fff;
+	font-family:"Segoe UI" ;
+}
+.contenu3{
+	color: #fff;
+	font-family:"Segoe UI" ;
+}
+button{
+	width: 130px;
+	height: 50px;
+	background-color: gray;
+	font-size: 15px;
+	color: white;
+}
+.folio {
+	width: 100%;
+	height: 600px;
+	text-align: center;
+	
+}
+.navbarre{
+position: relative;
+bottom: 60px;
+}
+.folio table{	
+position: relative;
+bottom: 40px;
+margin: 0 auto;
+float: right;
+padding-right: 390px;
+
+
+}
+.log{
+	width: 30%;
+	float: left;
+	line-height: 100px;
+	padding-left: 2%;
+}
+.log a{
+	text-decoration: none;
+	font-size: 25px;
+	font-family: verdana;
+	color: #000;
+	letter-spacing: 4px;
+}
+.men nav{
+	padding-right: 10%;
+}
+.men nav a {
+	text-decoration: none;
+	font-family: verdana;
+	letter-spacing: 3px;
+	font-size: 16px;
+	margin:0 10px;
+	color: #000; 
+
+}
+.navbarre{
+	width: 70%;
+	height: 100px;
+	padding-right: 15%;
+	padding-left: 15%;
+
+}
+.sect{
+	width: 100%;
+	height: 420px;
+	background: gray;
+	opacity:0.95;
+	position: relative;
+	margin: 0 auto;
+}
+.sect1{
+	position: relative;
+	margin: 0 auto;
+	padding-left: 16%;
+	top: 10%;
+}
+.sect2{
+	position: relative;
+	margin: 0 auto;
+	bottom: 65%;
+	padding-left: 53%;
+}
+.sect button{
+	height: 55px;
+	width: 120px;
+	background: transparent;
+	border:2px solid #000;
+}
+.twit{
+	width: 100%;
+	height: 200px;
+	background: deepskyblue;
+	position: relative;
+	margin: 0 auto;
+	bottom: 25px;
+
+}
+.para{
+	padding-left: 16%;
+}
+.twit h1{
+	color: white;
+}
+.twit p{
+	font-size: 25px;
+	color: white;
+}
+.twit img{
+	position: relative;
+	margin: 0 auto;
+	padding-right:360px;
+}
+.who{
+	position: relative;
+	margin: 0 auto;
+	bottom: 60px;
+	width: 100%;
+	height: 450px;
+	background-image:url(g.png);
+	opacity: 0.8;
+	background-image: cover;
+}
+.who1{
+	color: #fff;
+	font-size: 25px;
+	padding-left: 16%;
+}
+.who2{
+	position: relative;
+	margin: 0 auto;
+	bottom: 63%;
+	padding-left: 50%;
+}
+.image{
+	position: relative;
+	margin: 0 auto;
+	bottom: 10px;
+}
+	
+.img1, .img2, .img3, .img4{
+	
+	padding: 10px;
+	border: 2px solid #fff;
+
+}
+.par{
+	color: #fff;
+	font-size: 25px;
+	
+	
+}
+
+td p{
+	font-size: 20px;
+	color: white;
+}
+td h1{
+	font-size: 30px;
+	color: white;
+}
+.testimodial{
+	width: 100%
+	height:350px;
+	background: #fff;
+}
+.testimodial h1{
+	opacity: 0.8;
+	font-size: 40px;
+	position: relative;
+	margin: 0 auto;
+}
+.para1{
+	opacity: 0.8;
+	font-size: 30px;
+}
+.para2{
+	color: deepskyblue;
+	font-size: 20px;
+}
+.texte{
+	padding-left: 16%;
+}
+.contact{
+	position: relative;
+	margin: 0 auto;
+	width: 100%;
+	height: 650px;
+	background-image:url(tof12.png);
+	display:flex;
+	padding-left: 16%;
+}
+label{
+	font-size: 25px;
+	color: white;
+}
+.textleft h1{
+	font-size: 40px;
+	color: #fff;
+}
+form input{
+	height: 65px;
+	width: 400px;
+	background: transparent;
+	border:2px solid #fff;
+}
+.textright p{
+	position: relative;
+	color: #fff;
+	font-size: 20px;	
+	top: 110px;
+	right: 540px;
+}
+textarea{
+	background: transparent;
+	border:2px solid #fff;
+}
+.sms{
+	width: 250px;
+	height: 60px;
+	background: deepskyblue;
+	color: white;
+}
+.pied{
+	position: relative;
+	margin: 0 auto;
+	top: 0px;
+	width: 100%;
+	height: 150px;
+	background: black;
+	opacity: 0.8;
+}
+.pied nav{
+	float: left;
+	line-height: 150px;
+	padding-left: 16%;
+}
+ .pied nav a {
+ 	opacity: 0.6;
+	text-decoration: none;
+	font-family: verdana;
+	letter-spacing: 4px;
+	font-size: 15px;
+	margin:0 10px;
+	color: #fff; 
+
+}
+
